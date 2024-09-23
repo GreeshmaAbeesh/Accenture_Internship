@@ -1,4 +1,3 @@
-# Accenture_Internship
 # Accenture North America Data Analytics and Visualization Job Simulation - August 2024
 
 ## Internship Overview
@@ -42,4 +41,7 @@ This project was completed as part of a job simulation on Forage, where I took o
 
 ## Conclusion:
 This job simulation enhanced my ability to clean, model, and visualize large datasets and communicate actionable insights effectively. It also helped me develop real-world experience in advising clients and stakeholders on data-driven strategies.
+
+**Certification**:  
+[View my certification on LinkedIn](https://www.linkedin.com/in/greeshma-ps/details/certifications?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAA2X97UBRQgzYEfN3kVmJLoBvQ5_B81rHf0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCDU3Ue17SX21%2FN7O7aKn4Q%3D%3D))
 
